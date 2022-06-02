@@ -28,12 +28,6 @@ const Styles = styled.div`
   ${p => p.isPwaMode && 'padding-bottom: 3rem;'}
 `;
 
-import TagManager from 'react-gtm-module'
-const tagManagerArgs = {
-    gtmId: 'GTM-MK6PQKF'
-};
-TagManager.initialize(tagManagerArgs)
-
 
 ReactGA.initialize(config.GAPropertyId);
 
