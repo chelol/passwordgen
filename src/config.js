@@ -20,10 +20,11 @@ const initParams = {
   }
 };
 
-const localStorageKeys = {
+/*const localStorageKeys = {
   params: `pwgen-joeb-dev-params-${version}`,
   mode: `pwgen-joeb-dev-mode-${version}`
 };
+*/
 
 const strengthsEnum = {
   OK: 'weak',
