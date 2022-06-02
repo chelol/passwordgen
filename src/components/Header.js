@@ -68,6 +68,10 @@ export default function Header({ isPwaMode }) {
               PasswordGen.Live
             </SecretTween>
           </span>
+          <span>
+            Online Password and Passphrase Generator. 
+          </span>
+
         </h1>
       ) : (
         <h1>
