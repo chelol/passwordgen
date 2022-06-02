@@ -29,11 +29,9 @@ const Styles = styled.div`
 `;
 
 import TagManager from 'react-gtm-module'
-
 const tagManagerArgs = {
     gtmId: 'GTM-MK6PQKF'
 };
-
 TagManager.initialize(tagManagerArgs)
 
 
