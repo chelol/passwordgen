@@ -1,6 +1,6 @@
 {
-  "short_name": "Passwords",
-  "name": "Secure Password Generator",
+  "short_name": "Passwords and Passphrase Generator",
+  "name": "Online Secure Password and Passphrase Generator",
   "icons": [
     {
       "src": "favicon.ico",
