@@ -38,5 +38,4 @@ export default {
   initParams,
   localStorageKeys,
   strengthsEnum,
-  GAPropertyId: 'UA-140727716-6'
 };
