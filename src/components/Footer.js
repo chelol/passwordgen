@@ -1,7 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
 import config from 'config';
-import { ReactComponent as Heart } from 'images/heart.svg';
 
 const StyledContainer = styled.div`
   padding: 3rem 0;
