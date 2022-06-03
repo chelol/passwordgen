@@ -46,7 +46,9 @@ export default function PassphraseParams({ values, onChange, isPwaMode }) {
     <Styles isPwaMode={isPwaMode}>
       {!isPwaMode && (
         <p>
-          Long passphrases are easy to remember (and type!) and are often just as secure
+<b>How does it works?</b> Set your parameters, choose a secret, click to copy and enjoy.
+<blockquote></blockquote>
+Long passphrases are easy to remember (and type!) and are often just as secure
           as a random string of characters, especially when they're longer than a password
           would be. Makes a great choice for your "master" password.
         </p>

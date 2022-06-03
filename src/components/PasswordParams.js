@@ -44,9 +44,11 @@ export default function PasswordParams({ values, onChange, isPwaMode }) {
   return (
     <Styles isPwaMode={isPwaMode}>
       {!isPwaMode && (
-        <p>
-          Good passwords are at least 12 characters long. If you can, include letters,
-          numbers, & symbols in random order. 
+      
+<p>
+<b>How does it works?</b> Set your parameters, choose a secret, click to copy and enjoy.
+<blockquote></blockquote> Good passwords are at least 12 characters long. If you can, include letters,
+numbers, & symbols in random order. 
         </p>
       )}
       <InputRow>
