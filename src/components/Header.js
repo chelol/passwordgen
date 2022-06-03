@@ -16,7 +16,7 @@ const Styles = styled.header`
     display: block;
     white-space: nowrap;
     &:first-child {
-      font-size: 1.2em;
+      font-size: 1em;
     }
     &:nth-child(2) {
       font-size: 1em;
@@ -68,11 +68,14 @@ export default function Header({ isPwaMode }) {
               PasswordGen.Live
             </SecretTween>
           </span>
+
           <span>
             <small>Password & Passphrase Generator</small>
           </span>
 
         </h1>
+
+        
       ) : (
         <h1>
           <span>
