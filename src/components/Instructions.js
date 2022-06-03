@@ -184,8 +184,7 @@ export default function Instructions() {
             <path class="corner" d="M10 6C10 6 14.8758 6 18 6C21.1242 6 26 6 26 6C26 6 26 6 26 6H10C10 6 10 6 10 6Z" />
         </svg>
     </div>
-    <span><a href="">PasswordGen</a>
-</span>
+    <span><a href="https://passwordgen.live">PasswordGen</a></span>
 </button>
 
 
