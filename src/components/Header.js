@@ -69,8 +69,8 @@ export default function Header({ isPwaMode }) {
             </SecretTween>
           </span>
           <span>
-            <p>Online Password<blockquote>
-            and Passphrase Generator</blockquote></p>
+            <small>
+            Password and Passphrase Generator</small>
           </span>
 
         </h1>
