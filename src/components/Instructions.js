@@ -171,6 +171,7 @@ export default function Instructions() {
     <Styles>
       <h2>Buy Me a Coffee</h2>
       <ol>
+      <p>If you found this tool useful, please consider making a donation.</p>
       <p>Why buy me a coffee? No third-party ads, no affiliate links, no tracking cookies. Thanks.</p>
 
 <button class="bookmark">
