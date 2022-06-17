@@ -169,7 +169,7 @@ export default function Instructions() {
 
     
     <Styles>
-      <h2>Password Bookmarklet</h2>
+      <h2>Buy Me a Coffee</h2>
       <ol>
       <p>Why buy me a coffee? No third-party ads, no affiliate links, no tracking cookies. Thanks.</p>
 
