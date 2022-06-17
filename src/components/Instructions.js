@@ -171,15 +171,8 @@ export default function Instructions() {
     <Styles>
       <h2>Donate</h2>
       <ol>
-
-
-
-      <a href="https://ko-fi.com/passwordgenlive"><img src="images/kofi.png" alt="Buy me a coffee"></a>
-
-
-
-      
-
+      <p>Why buy me a coffee? No third-party ads, no affiliate links, no tracking cookies. Thanks.</p>
+     <a href="https://ko-fi.com/passwordgenlive"><img src="images/kofi.png" alt="Buy me a coffee"</a>
       </ol>
     </Styles>
   );
