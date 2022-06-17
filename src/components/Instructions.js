@@ -171,10 +171,7 @@ export default function Instructions() {
     <Styles>
       <h2>Donate</h2>
       <ol>
-        <p>
-        <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'R6R1DBPCQ');kofiwidget2.draw();</script> 
-</p>
-
+      <a href='https://ko-fi.com/R6R1DBPCQ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
       </ol>
     </Styles>
